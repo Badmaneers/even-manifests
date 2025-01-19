@@ -2,7 +2,7 @@
 <manifest>
 
     <!-- Device tree -->
-    <project name="Badmaneers/device_realme_even_rui4" path="device/realme/even" remote="github" revision="master" />
+    <project name="Justabalak/device_realme_even_rui4" path="device/realme/even" remote="github" revision="master" />
   
     <!-- Vendor tree -->
     <project name="Badmaneers/vendor_realme_even_rui4" path="vendor/realme/even" remote="github" revision="main" />
