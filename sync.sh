@@ -2,7 +2,7 @@
 
 # Clone Kernel
 rm -rf kernel/realme/mt6768
-git clone --recurse-submodules --depth=1 https://github.com/Badmaneers/kernel_realme_mt6768.git kernel/realme/mt6768
+git clone --recurse-submodules --depth=1 https://github.com/Badmaneers/kernel_even_4.19 kernel/realme/even
 # Clone Vendor
 rm -rf vendor/realme/even
 git clone   --depth=1 https://github.com/Badmaneers/vendor_realme_even.git vendor/realme/even
