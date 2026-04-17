@@ -1,0 +1,27 @@
+<manifest>
+
+    <!-- Device tree -->
+    <project name="Badmaneers/device_realme_even_rui4" path="device/realme/even" remote="github" revision="lineage-21" />
+
+    <!-- Kernel tree -->
+    <project name="Badmaneers/kernel_realme_even" path="kernel/realme/even" remote="github" revision="rui4-main" />
+
+    <!--Vendor -->
+    <project path="vendor/realme/even" name="Badmaneers/vendor_realme_even_rui4" remote="github" revision="main-oss" />
+
+    <!--Oplus hw -->
+    <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-21" />
+    
+    <!-- Mediatek hw -->
+    <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="lineage-21" />
+
+    <!-- Mediatek sepolicy -->
+    <project name="LineageOS/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="lineage-21" />
+
+    <!-- Pocket Mode -->
+    <project name="nishant6342/packages_apps_PocketMode" path="packages/apps/PocketMode" remote="github" revision="UNO" />
+
+    <!-- Dolby -->
+    <project name="swiitch-OFF-Lab/hardware_dolby.git" path="hardware/dolby" remote="github" revision="sony-1.2" />
+
+</manifest>
