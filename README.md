@@ -9,18 +9,18 @@
 Some extremely basic instructions:
 - Make a new directory for LineageOS sources and enter it:
 ```
-mkdir lineage-22.2
-cd lineage-22.2
+mkdir lineage-23.2
+cd lineage-23.2
 ```
 
 - Initialize repo in this directory with the LineageOS 21 android repository:
 ```
-repo init -u https://github.com/LineageOS/android.git -b lineage-22.2.0 --git-lfs
+repo init -u https://github.com/LineageOS/android.git -b lineage-23.2.0 --git-lfs
 ```
 
 - Clone this repository to .repo/local_manifests for roomservice.xml containing the repositories needed to build for these devices:
 ```
-git clone https://github.com/Badmaneers/even-manifests.git -b lineage-22.2 .repo/local_manifests
+git clone https://github.com/Badmaneers/even-manifests.git -b lineage-23.2 .repo/local_manifests
 ```
 
 - Sync all of the repositories in manifests (including LineageOS manifests):
