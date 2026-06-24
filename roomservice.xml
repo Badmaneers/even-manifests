@@ -7,7 +7,7 @@
     <project name="Badmaneers/kernel_realme_even" path="kernel/realme/even" remote="github" revision="rui4-main" />
 
     <!--Vendor -->
-    <project path="vendor/realme/even" name="Badmaneers/vendor_realme_even_rui4" remote="github" revision="main-oss" />
+    <project path="vendor/realme/even" name="Badmaneers/vendor_realme_even_rui4" remote="github" revision="los-22.2" />
 
     <!--Oplus hw -->
     <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-22.2" />
