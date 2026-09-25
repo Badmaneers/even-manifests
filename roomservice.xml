@@ -7,16 +7,16 @@
     <project name="Badmaneers/kernel_realme_even" path="kernel/realme/even" remote="github" revision="rui4-main" />
 
     <!--Vendor -->
-    <project path="vendor/realme/even" name="Badmaneers/vendor_realme_even_rui4" remote="github" revision="los-23.2" />
+    <project path="vendor/realme/even" name="Badmaneers/vendor_realme_even_rui4" remote="github" revision="los-24.0" />
 
     <!--Oplus hw -->
-    <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-23.2" />
+    <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-24.0" />
     
     <!-- Mediatek hw -->
-    <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="lineage-23.2" />
+    <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="lineage-24.0" />
 
     <!-- Mediatek sepolicy -->
-    <project name="LineageOS/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="lineage-23.2" />
+    <project name="LineageOS/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="lineage-24.0" />
 
     <!-- Dolby -->
     <project name="TRIDEV099/hardware_dolby" path="hardware/dolby" remote="github" revision="16.0" />
