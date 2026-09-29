@@ -11,6 +11,9 @@
 
     <!--IMS -->
     <project path="vendor/mediatek/ims" name="techyminati/android_vendor_mediatek_ims" remote="github" revision="android-16-qpr2" />
+
+    <!--BCR -->
+    <project path="vendor/bcr" name="ProjectInfinity-X/vendor_bcr" remote="github" revision="QPR3" />
     
     <!--Oplus hw -->
     <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-24.0" />
