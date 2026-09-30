@@ -1,10 +1,10 @@
 <manifest>
 
     <!-- Device tree -->
-    <project name="Badmaneers/device_realme_even_rui4" path="device/realme/even" remote="github" revision="infinityx" />
+    <project name="Badmaneers/device_realme_even_rui4" path="device/realme/even" remote="github" revision="lineage-24.0" />
 
     <!-- Kernel tree -->
-    <project name="Badmaneers/kernel_realme_even" path="kernel/realme/even" remote="github" revision="rui4-main" />
+    <project name="Badmaneers/kernel_realme_even" path="kernel/realme/even" remote="github" revision="rui4-clean" />
 
     <!--Vendor -->
     <project path="vendor/realme/even" name="Badmaneers/vendor_realme_even_rui4" remote="github" revision="los-24.0" />
